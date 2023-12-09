@@ -27,7 +27,7 @@
   },
   "homepage": "https://github.com/owasp/DVSA#readme",
   "dependencies": {
-    "@aws-amplify/ui-react": "^4.6.4",
+    "@aws-amplify/ui-react": "^6.0.5",
     "aws-amplify": "^5.2.4",
     "node-gyp": "^9.3.1"
   },
